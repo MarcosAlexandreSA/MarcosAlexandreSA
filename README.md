@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Marcos 👻
+### Hello! My name is Marcos 👻 I am a 20 years old Brazilian.
 
 [![Blog](https://img.shields.io/badge/Marcos_AS-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zxrp_/)
@@ -8,7 +8,7 @@
 
 [![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAlexandreSA&show_icons=true&theme=transparent)](https://github.com/MarcosAlexandreSA)
 
-## Tecnologias que eu uso no meu dia 💻
+## Daily Technologies 💻
 
 <div style="display: inline_block"><br>
     <img style="align:center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,8 +19,8 @@
     <img style="align:center" alt="HTML5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-Ainda estou estudando, porém sempre disposto a trabalhar em projetos.
+I'm still studying, but always up to work in projects.
 
-## Segue meu email pessoa para contato 📧
+## Personal email for contact. 📧
 
 <a href="mailto:marcosalexandresa2002@gmail.com?subject=Vim do Github"> <img src="https://img.shields.io/badge/Marcosalexandresa2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
