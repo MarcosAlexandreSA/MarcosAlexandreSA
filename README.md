@@ -2,7 +2,6 @@
 ### Hello! My name is Marcos 👻 I am a 20 years old Brazilian.
 
 [![Blog](https://img.shields.io/badge/Marcos_AS-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zxrp_/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zxrpp)
 
 
